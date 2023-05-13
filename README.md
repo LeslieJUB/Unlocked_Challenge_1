@@ -1,6 +1,6 @@
 # Z by HP Unlocked Challenge 1
 
-## I found this challenge since am working as a CTO (Voluntary) for a Zimbabwean sarting focusing on Forestry'
+## I found this challenge interesting since am working as a CTO (Voluntary) for a Zimbabwean sarting focusing on Forestry'
 
 Unlocked Challenge 1 - Data Visualization - Special thanks to Andrada Olteanu for helping design this tutorial!
 Watch the tutorial video here: https://youtu.be/KotY4jlu9rc
